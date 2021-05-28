@@ -146,7 +146,7 @@ async function getPokemon(i) {
 
         const $imgAccessPoke = document.createElement("img");
         $imgAccessPoke.className = "img-access-poke";
-        $imgAccessPoke.setAttribute("src","/images/background.png")
+        $imgAccessPoke.setAttribute("src","https://i.postimg.cc/hv6s9Spk/background.png")
         
 
 

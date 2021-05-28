@@ -9,7 +9,7 @@ body {
     flex-direction: column;
     justify-content: center;
     min-height: 100vh; 
-    background-image: url("/images/background.png");
+    background-image: url("https://i.postimg.cc/hv6s9Spk/background.png");
     background-repeat: no-repeat; 
     background-position: center; 
     background-size: 500px;
@@ -23,7 +23,7 @@ body {
     flex-direction: column;
     justify-content: center;
     min-height: 100vh; 
-    background-image: url("/images/background.png");
+    background-image: url("https://i.postimg.cc/hv6s9Spk/background.png");
     background-repeat: no-repeat; 
     background-position: center; 
     background-size: 500px;
